@@ -1,4 +1,4 @@
-# Landing Page Template built with Next JS 14+, Tailwind CSS 3 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+# Landing Page Template built with Next JS 14+, Tailwind CSS 3 and TypeScript [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Kobayashi19860206)](https://twitter.com/Kobayashi19860206)
 
 <p align="center">
   <a href="https://creativedesignsguru.com/demo/nextjs-landing-page/"><img src="public/assets/images/nextjs-landing-page-banner.png?raw=true" alt="Next js starter banner"></a>
@@ -47,9 +47,9 @@ Clone this project and use it to create your own [Next.js](https://nextjs.org) p
     <td align="center" width="33%">
       <a href="https://clerk.com?utm_source=github&utm_medium=sponsorship&utm_campaign=nextjs-boilerplate">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ixartz/Next-js-Boilerplate/assets/1328388/a3cd2a25-377b-4c0d-a3d3-bce121df2c94">
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/ixartz/Next-js-Boilerplate/assets/1328388/3459074d-c3e2-46c5-8be4-b836cb7989ea">
-          <img alt="Clerk – Authentication & User Management for Next.js" src="https://github.com/ixartz/Next-js-Boilerplate/assets/1328388/3459074d-c3e2-46c5-8be4-b836cb7989ea">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kobayashi19860206/Next-js-Boilerplate/assets/1328388/a3cd2a25-377b-4c0d-a3d3-bce121df2c94">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kobayashi19860206/Next-js-Boilerplate/assets/1328388/3459074d-c3e2-46c5-8be4-b836cb7989ea">
+          <img alt="Clerk – Authentication & User Management for Next.js" src="https://github.com/Kobayashi19860206/Next-js-Boilerplate/assets/1328388/3459074d-c3e2-46c5-8be4-b836cb7989ea">
         </picture>
       </a>
     </td>
@@ -134,7 +134,7 @@ Find more components in our [premium NextJS themes](https://creativedesignsguru.
 Run the following command on your local environment:
 
 ```
-git clone --depth=1 https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template.git my-project-name
+git clone --depth=1 https://github.com/Kobayashi19860206/NextjsTemplate.git my-project-name
 cd my-project-name
 npm install
 ```
@@ -213,7 +213,7 @@ Now, your theme is ready to be deployed. All generated files are located at `out
 
 Clone this repository on own GitHub account and deploy to Netlify:
 
-[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ixartz/Next-JS-Landing-Page-Starter-Template)
+[![Netlify Deploy button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Kobayashi19860206/NextjsTemplate)
 
 ### VSCode information (optional)
 
@@ -270,9 +270,9 @@ See [LICENSE](LICENSE) for more information.
     <td align="center" width="33%">
       <a href="https://clerk.com?utm_source=github&utm_medium=sponsorship&utm_campaign=nextjs-boilerplate">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ixartz/Next-js-Boilerplate/assets/1328388/a3cd2a25-377b-4c0d-a3d3-bce121df2c94">
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/ixartz/Next-js-Boilerplate/assets/1328388/3459074d-c3e2-46c5-8be4-b836cb7989ea">
-          <img alt="Clerk – Authentication & User Management for Next.js" src="https://github.com/ixartz/Next-js-Boilerplate/assets/1328388/3459074d-c3e2-46c5-8be4-b836cb7989ea">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Kobayashi19860206/Next-js-Boilerplate/assets/1328388/a3cd2a25-377b-4c0d-a3d3-bce121df2c94">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Kobayashi19860206/Next-js-Boilerplate/assets/1328388/3459074d-c3e2-46c5-8be4-b836cb7989ea">
+          <img alt="Clerk – Authentication & User Management for Next.js" src="https://github.com/Kobayashi19860206/Next-js-Boilerplate/assets/1328388/3459074d-c3e2-46c5-8be4-b836cb7989ea">
         </picture>
       </a>
     </td>
@@ -302,6 +302,6 @@ See [LICENSE](LICENSE) for more information.
 
 ---
 
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Kobayashi19860206)](https://twitter.com/Kobayashi19860206)
 
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/ixartz)
+[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/Kobayashi19860206)
